@@ -1,5 +1,5 @@
 # check_ap_meru_util.pl
-About: Check plugin for nagios/icinga to record utilization of Meru AP's.
+About: Check plugin for nagios/icinga to record utilization of Meru/Fortinet AP's.
 
 Currently does not have warning or critical thresholds and is used primarily to gather data for graphs.
 
